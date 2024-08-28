@@ -61,7 +61,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: article-grid
+      view: date-title-summary
   # - block: collection
   #   id: talks
   #   content:
