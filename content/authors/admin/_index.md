@@ -105,7 +105,7 @@ skills:
       - name: Billiard
         description: ''
         percent: 100
-        icon: cat
+        icon: play-circle
       # - name: Photography
       #   description: ''
       #   percent: 80
