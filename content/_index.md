@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        # I am particularly fascinated by the challenges and opportunities that arise in optimizing LLMs for better performance, reduced computational costs, and enhanced scalability. 
+        <!-- I am particularly fascinated by the challenges and opportunities that arise in optimizing LLMs for better performance, reduced computational costs, and enhanced scalability. -->
         My research interests is about the efficiency of large language models (LLMs) and quantized training. I aim to push the boundaries of how we can effectively compress and accelerate deep learning models while maintaining their accuracy and robustness.
         
         Email: xihc (at) berkeley (dot) edu. Feel free to reach out 😃
