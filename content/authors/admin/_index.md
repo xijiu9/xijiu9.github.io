@@ -56,7 +56,7 @@ education:
     date_start: 2024-08-20
     date_end: ''
     summary: |
-      Focus on LLM efficiency. Advised by [Prof Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/).
+      Focus on LLM efficiency. Advised by <a href="https://people.eecs.berkeley.edu/~keutzer/">Prof Kurt Keutzer</a>.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -153,6 +153,6 @@ awards:
 
 ## About Me
 
-I am a first-year PhD student at [Berkeley AI Research](https://bair.berkeley.edu/), advised by [Prof Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). I graduated from [Yao Clas](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2024, advised by [Prof Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/) and [Prof Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I have been very fortunate to work with [Prof Song Han](https://hanlab.mit.edu/songhan) as a research intern at Nvidia, and to work with [Prof Sheng Wang](https://homes.cs.washington.edu/~swang/) as an student intern in [University of Washington](https://www.cs.washington.edu/).
+I am a first-year PhD student at [Berkeley AI Research](https://bair.berkeley.edu/), advised by [Prof Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). I graduated from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University in 2024, advised by [Prof Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/) and [Prof Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I have been very fortunate to work with [Prof Song Han](https://hanlab.mit.edu/songhan) as a research intern at Nvidia, and to work with [Prof Sheng Wang](https://homes.cs.washington.edu/~swang/) as an student intern in [University of Washington](https://www.cs.washington.edu/).
 
 Email: xihc (at) berkeley (dot) edu.
