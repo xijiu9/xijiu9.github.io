@@ -61,8 +61,8 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: list
   # - block: collection
   #   id: talks
   #   content:
