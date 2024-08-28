@@ -54,7 +54,7 @@ education:
   - area: PhD Computer Science
     institution: University of California, Berkeley
     date_start: 2024-08-20
-    date_end: Now
+    date_end: 2029-12-31
     summary: |
       Focus on LLM efficiency. Advised by [Prof Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/).
     # button:
