@@ -65,7 +65,7 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
-      Graduate from Yao Class, IIIS. Advised by [Prof Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/) and [Prof Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
+      Graduate from Yao Class, IIIS. Advised by <a href="https://ml.cs.tsinghua.edu.cn/~jianfei/">Prof Jianfei Chen</a> and <a href="https://ml.cs.tsinghua.edu.cn/~jun/index.shtml">Prof Jun Zhu</a>.
 
 work:
   - position: Research Intern
@@ -75,7 +75,7 @@ work:
     date_start: 2024-02-28
     date_end: 2024-08-12
     summary: |2-
-      Advised by [Prof Song Han](https://hanlab.mit.edu/songhan).
+      Advised by <a href="https://hanlab.mit.edu/songhan">Prof Song Han</a>. Focus on Low-precision Training.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
