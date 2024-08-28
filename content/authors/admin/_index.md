@@ -54,7 +54,7 @@ education:
   - area: PhD Computer Science
     institution: University of California, Berkeley
     date_start: 2024-08-20
-    date_end: 2029-12-31
+    date_end: ''
     summary: |
       Focus on LLM efficiency. Advised by [Prof Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/).
     # button:
@@ -73,7 +73,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-02-28
-    date_end: ''
+    date_end: 2024-08-12
     summary: |2-
       Advised by [Prof Song Han](https://hanlab.mit.edu/songhan).
 
