@@ -63,7 +63,7 @@ education:
   - area: Bachelor Computer Science
     institution: Yao Class, Tsinghua University
     date_start: 2020-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-30
     summary: |
       Graduate from Yao Class, IIIS. Advised by [Prof Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/) and [Prof Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
 
